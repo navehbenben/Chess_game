@@ -1,0 +1,7 @@
+rnbqk/ppppp/4R/PPPPP/KQBNR
+Rxe4+
+Qxe4
+d3
+cxd3
+exd3
+Qxd3
